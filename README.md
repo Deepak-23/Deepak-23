@@ -7,7 +7,7 @@
  <img src="https://media1.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=ecf05e47mc95jmnwl2vp9jm85y6sx150n0i2zp64jfbjv8x8&rid=giphy.gif" widh="200px" height="200px">
  </div>
  
-Web Technologies/languages/frameworks: 
+##Web Technologies/languages/frameworks: 
 
 * Html
 * Css
