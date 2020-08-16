@@ -28,10 +28,10 @@
 
 
 
-# Find me around the web 🌎:
-<a href="https://www.linkedin.com/in/deepak-hingwe-1094b4149/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png"/> </a><br>
-<a href="https://www.instagram.com/man.engineer_/?hl=en"><img src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/><br>
-<a href="https://www.facebook.com/chinu272397"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/><br>
-<a href="https://twitter.com/DeepakHingwe1"><img src="https://img.icons8.com/doodle/48/000000/twitter.png"/>
+# Find me around the web 🌎 :
+<a href="https://www.linkedin.com/in/deepak-hingwe-1094b4149/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png"/> </a>
+<a href="https://www.instagram.com/man.engineer_/?hl=en"><img src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/></a>
+<a href="https://www.facebook.com/chinu272397"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
+<a href="https://twitter.com/DeepakHingwe1"><img src="https://img.icons8.com/doodle/48/000000/twitter.png"/></a>
 
 
