@@ -1,4 +1,4 @@
-![headingBg](image/hello.jpeg)
+![headingBg](https://github.com/Deepak-23/Deepak-23/blob/master/image/hello.jpeg)
 
 <p align="center"> <h1 align="center">Hola!, I'm Deepak Hingwe &#128075; 👨‍💻</h1></p>
  <h2 align="center"> Learner </h1>
@@ -9,14 +9,16 @@
  
 ## Web Technologies/languages/frameworks: 
 
-* Html
-* Css
-* Bootstarp
+* Html 5
+* Css 3
+  * Bootstarp
 * javascript
-* Jquery
+  * Jquery
 * php 
 * mysql
 * python
+  * Web Scraping using BeautifulSoup
+  * tkinter for GUI
 
 
 
