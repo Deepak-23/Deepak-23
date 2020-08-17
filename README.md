@@ -23,7 +23,7 @@
 
 
 
-### 🌱 I’m currently learning - ReactJs
+### 🌱 I’m currently learning - ReactJs and NodeJs
 
 
 
