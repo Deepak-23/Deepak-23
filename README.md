@@ -12,6 +12,7 @@
 * Html 5
 * Css 3
   * Bootstarp
+  * Sass/Scss
 * javascript
   * Jquery
 * php 
