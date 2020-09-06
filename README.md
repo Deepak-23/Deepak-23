@@ -9,9 +9,9 @@
  
 ## Web Technologies/languages/frameworks: 
 
-* Html 5
-* Css 3
-  * Bootstarp
+* Html/Html 5
+* Css/Css 3
+  * Bootstarp 4
   * Sass/Scss
 * javascript
   * Jquery
