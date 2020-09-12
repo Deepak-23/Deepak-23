@@ -19,7 +19,7 @@
 * mysql
 * python
   * Web Scraping using BeautifulSoup
-  * tkinter for GUI
+  * tkinter for Python GUI
 
 
 
