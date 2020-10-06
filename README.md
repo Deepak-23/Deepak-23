@@ -15,6 +15,7 @@
   * Sass/Scss
 * javascript
   * Jquery
+  * ReactJs
 * php 
 * mysql
 * python
