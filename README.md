@@ -25,7 +25,7 @@
 
 
 
-### 🌱 I’m currently learning - ReactJs and NodeJs
+### 🌱 I’m currently learning - NodeJs and AWS
 <!-- working project - product-tracker using web scraping py. -->
 
 
